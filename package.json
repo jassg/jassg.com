@@ -1,0 +1,28 @@
+{
+	"name": "jassg.com",
+	"description": "jusg.com project files for jassg",
+	"private": "true",
+	"homepage": "http://jassg.com",
+	"bugs": {
+		"url": "https://github.com/jassg/jassg.com/issues",
+		"email": "info@jassg.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jassg/jassg.com.git"
+	},
+	"keywords": ["jassg","jassg.com"],
+	"version": "0.0.1",
+	"author": {
+		"name": "Florian Krauthan",
+		"email": "info@jassg.com",
+		"url": "http://fkrauthan.de"
+	},
+	"engines": [
+		"node >= 0.8.0"
+	],
+	"dependencies": {
+		"jassg": "~0.0.1"
+	}
+}
